@@ -1,6 +1,7 @@
 #### Title: Secure Random Password Generator Method_1
 ##### Description:
           This Python script generates strong, rendom password that meet your desired length and complexity requirements.
+          Create a Python program that generates random passwords based on user preferences. This project will help practise programming logic, string manipulation, and user interaction in Python.
 
 ##### Features: 
 - **Customizable length:** Specify the desired length of your password(minimum 10 characters recommended).
